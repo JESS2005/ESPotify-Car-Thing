@@ -1,3 +1,6 @@
+
+# **⚠️ Warning:** 
+## Spotify changed its bot protection, it currently doesn't work and won't work until I (or anyone who knows more than me about this) can manage to emulate the sentry headers.
 # ESPotify-Car-Thing
 A version of the Spotify car thing made to run on ESP32 with a TFT display.
 
